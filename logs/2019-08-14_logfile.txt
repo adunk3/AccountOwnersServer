@@ -1,0 +1,94 @@
+2019-08-14 10:25:37.6023 INFO Returned all owners from database.
+2019-08-14 10:25:42.8550 INFO Returned all owners from database.
+2019-08-14 10:25:43.9620 INFO Returned all owners from database.
+2019-08-14 10:25:46.3686 INFO Returned all owners from database.
+2019-08-14 10:25:52.0265 INFO Returned all owners from database.
+2019-08-14 10:25:53.9362 INFO Returned all owners from database.
+2019-08-14 10:26:15.2574 INFO Returned all owners from database.
+2019-08-14 10:26:17.1061 INFO Returned all owners from database.
+2019-08-14 10:26:18.8458 INFO Returned all owners from database.
+2019-08-14 10:26:21.0703 INFO Returned all owners from database.
+2019-08-14 10:31:17.9516 INFO Returned all owners from database.
+2019-08-14 10:31:25.3121 INFO Returned all owners from database.
+2019-08-14 10:31:51.9203 INFO Returned all owners from database.
+2019-08-14 10:32:06.4592 INFO Returned all owners from database.
+2019-08-14 10:38:23.4229 INFO Returned all owners from database.
+2019-08-14 10:38:27.9928 INFO Returned all owners from database.
+2019-08-14 10:38:29.3925 INFO Returned all owners from database.
+2019-08-14 10:38:31.3826 INFO Returned owner with details for id: a41d6453-1e05-4183-879c-87eb1e7a6f81
+2019-08-14 10:38:46.3771 INFO Returned all owners from database.
+2019-08-14 10:38:50.1335 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 10:38:51.7511 INFO Returned all owners from database.
+2019-08-14 10:38:53.4744 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 10:38:56.4146 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 10:38:59.6216 INFO Returned all owners from database.
+2019-08-14 10:39:08.3442 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 10:39:13.1830 INFO Returned all owners from database.
+2019-08-14 10:39:15.8162 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 10:39:20.6024 INFO Returned all owners from database.
+2019-08-14 11:02:48.2818 INFO Returned all owners from database.
+2019-08-14 11:02:51.7421 INFO Returned all owners from database.
+2019-08-14 11:02:54.5648 INFO Returned all owners from database.
+2019-08-14 11:02:57.1338 INFO Returned all owners from database.
+2019-08-14 11:03:04.7514 INFO Returned all owners from database.
+2019-08-14 11:06:47.8985 INFO Returned all owners from database.
+2019-08-14 11:09:13.2169 INFO Returned all owners from database.
+2019-08-14 11:09:17.1755 INFO Returned all owners from database.
+2019-08-14 11:09:22.8768 INFO Returned all owners from database.
+2019-08-14 11:09:25.1321 INFO Returned all owners from database.
+2019-08-14 11:10:14.2640 INFO Returned all owners from database.
+2019-08-14 11:10:20.2681 INFO Returned all owners from database.
+2019-08-14 11:10:23.1574 INFO Returned all owners from database.
+2019-08-14 11:24:17.7498 INFO Returned all owners from database.
+2019-08-14 11:24:20.4054 INFO Returned all owners from database.
+2019-08-14 11:24:22.7848 INFO Returned owner with details for id: a41d6453-1e05-4183-879c-87eb1e7a6f81
+2019-08-14 11:24:24.0109 INFO Returned all owners from database.
+2019-08-14 11:24:26.1914 INFO Returned owner with id: a41d6453-1e05-4183-879c-87eb1e7a6f81
+2019-08-14 11:24:27.2359 INFO Returned all owners from database.
+2019-08-14 11:24:29.5384 INFO Returned all owners from database.
+2019-08-14 11:34:04.7680 INFO Returned all owners from database.
+2019-08-14 11:34:14.5002 INFO Returned all owners from database.
+2019-08-14 11:38:36.1010 INFO Returned all owners from database.
+2019-08-14 11:38:43.3451 INFO Returned all owners from database.
+2019-08-14 11:38:45.7976 INFO Returned all owners from database.
+2019-08-14 11:39:20.0362 INFO Returned all owners from database.
+2019-08-14 11:39:21.8582 INFO Returned owner with details for id: a41d6453-1e05-4183-879c-87eb1e7a6f81
+2019-08-14 11:39:25.4019 INFO Returned all owners from database.
+2019-08-14 11:39:27.4278 INFO Returned owner with id: a41d6453-1e05-4183-879c-87eb1e7a6f81
+2019-08-14 11:39:32.8097 INFO Returned all owners from database.
+2019-08-14 11:39:35.5967 INFO Returned owner with id: a41d6453-1e05-4183-879c-87eb1e7a6f81
+2019-08-14 11:39:36.9754 INFO Returned all owners from database.
+2019-08-14 11:39:38.3204 INFO Returned owner with id: a41d6453-1e05-4183-879c-87eb1e7a6f81
+2019-08-14 11:39:42.1837 INFO Returned all owners from database.
+2019-08-14 11:39:44.2964 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 11:39:45.7702 INFO Returned all owners from database.
+2019-08-14 11:39:46.8222 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 11:39:47.6995 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 11:39:49.5315 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 11:39:51.0743 INFO Returned all owners from database.
+2019-08-14 11:39:55.6358 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 11:39:57.7245 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 11:40:15.9350 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 11:40:30.2160 INFO Returned all owners from database.
+2019-08-14 11:40:32.9810 INFO Returned owner with id: f0ae3e7f-fe10-4376-a840-3935cb287db4
+2019-08-14 11:40:36.6115 INFO Returned all owners from database.
+2019-08-14 11:40:38.7332 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-14 11:40:39.7471 ERROR Cannot delete owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906. It has related accounts. Please delete accounts first.
+2019-08-14 11:40:41.5361 ERROR Cannot delete owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906. It has related accounts. Please delete accounts first.
+2019-08-14 11:41:07.9207 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-08-14 11:41:39.5464 INFO Returned all owners from database.
+2019-08-14 11:41:41.5844 INFO Returned owner with details for id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2019-08-14 11:41:45.0772 INFO Returned all owners from database.
+2019-08-14 11:41:49.6716 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 11:41:51.4875 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 12:13:15.2144 INFO Returned all owners from database.
+2019-08-14 12:13:24.0227 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 12:13:25.3165 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 12:13:51.8919 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 12:19:59.3534 INFO Returned all owners from database.
+2019-08-14 12:20:01.5101 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 12:20:04.7379 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 12:22:13.0807 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 12:22:16.2037 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.
+2019-08-14 12:22:28.1970 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2019-08-14 12:22:28.9320 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Please delete accounts first.

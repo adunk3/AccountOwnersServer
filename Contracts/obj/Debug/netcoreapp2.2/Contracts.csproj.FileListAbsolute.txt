@@ -1,0 +1,14 @@
+/Users/alexduncan/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.2/Contracts.deps.json
+/Users/alexduncan/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.2/Contracts.dll
+/Users/alexduncan/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.2/Contracts.pdb
+/Users/alexduncan/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.2/Contracts.csprojAssemblyReference.cache
+/Users/alexduncan/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.2/Contracts.csproj.CoreCompileInputs.cache
+/Users/alexduncan/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.2/Contracts.AssemblyInfoInputs.cache
+/Users/alexduncan/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.2/Contracts.AssemblyInfo.cs
+/Users/alexduncan/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.2/Contracts.dll
+/Users/alexduncan/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.2/Contracts.pdb
+/Users/alexduncan/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.2/Entities.dll
+/Users/alexduncan/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.dll
+/Users/alexduncan/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.2/Entities.pdb
+/Users/alexduncan/AccountOwnerServer/Contracts/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.xml
+/Users/alexduncan/AccountOwnerServer/Contracts/obj/Debug/netcoreapp2.2/Contracts.csproj.CopyComplete

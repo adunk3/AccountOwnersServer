@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexduncan/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj": {}
+  },
+  "projects": {
+    "/Users/alexduncan/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexduncan/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj",
+        "projectName": "AccountOwnerServer",
+        "projectPath": "/Users/alexduncan/AccountOwnerServer/AccountOwnerServer/AccountOwnerServer.csproj",
+        "packagesPath": "/Users/alexduncan/.nuget/packages/",
+        "outputPath": "/Users/alexduncan/AccountOwnerServer/AccountOwnerServer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alexduncan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj": {
+                "projectPath": "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj"
+              },
+              "/Users/alexduncan/AccountOwnerServer/LoggerService/LoggerService.csproj": {
+                "projectPath": "/Users/alexduncan/AccountOwnerServer/LoggerService/LoggerService.csproj"
+              },
+              "/Users/alexduncan/AccountOwnerServer/Repository/Repository.csproj": {
+                "projectPath": "/Users/alexduncan/AccountOwnerServer/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/alexduncan/AccountOwnerServer/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexduncan/AccountOwnerServer/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/alexduncan/AccountOwnerServer/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/alexduncan/.nuget/packages/",
+        "outputPath": "/Users/alexduncan/AccountOwnerServer/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alexduncan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj": {
+                "projectPath": "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj",
+        "packagesPath": "/Users/alexduncan/.nuget/packages/",
+        "outputPath": "/Users/alexduncan/AccountOwnerServer/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alexduncan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/alexduncan/AccountOwnerServer/LoggerService/LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexduncan/AccountOwnerServer/LoggerService/LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "/Users/alexduncan/AccountOwnerServer/LoggerService/LoggerService.csproj",
+        "packagesPath": "/Users/alexduncan/.nuget/packages/",
+        "outputPath": "/Users/alexduncan/AccountOwnerServer/LoggerService/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alexduncan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/alexduncan/AccountOwnerServer/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/alexduncan/AccountOwnerServer/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/alexduncan/AccountOwnerServer/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexduncan/AccountOwnerServer/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/alexduncan/AccountOwnerServer/Repository/Repository.csproj",
+        "packagesPath": "/Users/alexduncan/.nuget/packages/",
+        "outputPath": "/Users/alexduncan/AccountOwnerServer/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alexduncan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/alexduncan/AccountOwnerServer/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/alexduncan/AccountOwnerServer/Contracts/Contracts.csproj"
+              },
+              "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj": {
+                "projectPath": "/Users/alexduncan/AccountOwnerServer/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

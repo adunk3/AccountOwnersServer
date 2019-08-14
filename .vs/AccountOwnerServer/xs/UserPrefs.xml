@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{7C6CB6EC-5EED-47EB-AFCC-2C172745BF21}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountOwnerServer/appsettings.json">
+    <Files>
+      <File FileName="AccountOwnerServer/Controllers/OwnerController.cs" Line="29" Column="12" />
+      <File FileName="AccountOwnerServer/Extensions/ServiceExtensions.cs" />
+      <File FileName="AccountOwnerServer/Startup.cs" />
+      <File FileName="AccountOwnerServer/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccountOwnerServer" expanded="True">
+            <Node name="AccountOwnerServer" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+            <Node name="Contracts" expanded="True" />
+            <Node name="Repository" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AccountOwnerServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/alexduncan/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.2/Entities.csprojAssemblyReference.cache
+/Users/alexduncan/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.2/Entities.csproj.CoreCompileInputs.cache
+/Users/alexduncan/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.2/Entities.AssemblyInfoInputs.cache
+/Users/alexduncan/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.2/Entities.AssemblyInfo.cs
+/Users/alexduncan/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.2/Entities.deps.json
+/Users/alexduncan/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.2/Entities.dll
+/Users/alexduncan/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.2/Entities.pdb
+/Users/alexduncan/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.dll
+/Users/alexduncan/AccountOwnerServer/Entities/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.xml
+/Users/alexduncan/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.2/Entities.csproj.CopyComplete
+/Users/alexduncan/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.2/Entities.dll
+/Users/alexduncan/AccountOwnerServer/Entities/obj/Debug/netcoreapp2.2/Entities.pdb

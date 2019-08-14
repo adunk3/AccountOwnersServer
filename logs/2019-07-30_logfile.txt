@@ -1,0 +1,5 @@
+2019-07-30 12:41:17.7766 INFO Returned all owners from database.
+2019-07-30 12:41:30.9033 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2019-07-30 12:42:30.3056 INFO Returned owner with id: 206108a4-b361-4d86-aad2-477261dee3a4
+2019-07-30 12:42:46.7329 INFO Returned owner with id: 206108a4-b361-4d86-aad2-477261dee3a4
+2019-07-30 12:42:58.9463 INFO Returned all owners from database.

@@ -1,0 +1,16 @@
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/LoggerService.deps.json
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/LoggerService.dll
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/LoggerService.pdb
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/Contracts.dll
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/Contracts.pdb
+/Users/alexduncan/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp2.2/LoggerService.csprojAssemblyReference.cache
+/Users/alexduncan/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp2.2/LoggerService.csproj.CoreCompileInputs.cache
+/Users/alexduncan/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp2.2/LoggerService.AssemblyInfoInputs.cache
+/Users/alexduncan/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp2.2/LoggerService.AssemblyInfo.cs
+/Users/alexduncan/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp2.2/LoggerService.csproj.CopyComplete
+/Users/alexduncan/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp2.2/LoggerService.dll
+/Users/alexduncan/AccountOwnerServer/LoggerService/obj/Debug/netcoreapp2.2/LoggerService.pdb
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/Entities.dll
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.dll
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/Entities.pdb
+/Users/alexduncan/AccountOwnerServer/LoggerService/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.xml

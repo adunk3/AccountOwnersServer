@@ -1,0 +1,14 @@
+/Users/alexduncan/AccountOwnerServer/Repository/bin/Debug/netcoreapp2.2/Repository.deps.json
+/Users/alexduncan/AccountOwnerServer/Repository/bin/Debug/netcoreapp2.2/Repository.dll
+/Users/alexduncan/AccountOwnerServer/Repository/bin/Debug/netcoreapp2.2/Repository.pdb
+/Users/alexduncan/AccountOwnerServer/Repository/bin/Debug/netcoreapp2.2/Contracts.dll
+/Users/alexduncan/AccountOwnerServer/Repository/bin/Debug/netcoreapp2.2/Entities.dll
+/Users/alexduncan/AccountOwnerServer/Repository/bin/Debug/netcoreapp2.2/Contracts.pdb
+/Users/alexduncan/AccountOwnerServer/Repository/bin/Debug/netcoreapp2.2/Entities.pdb
+/Users/alexduncan/AccountOwnerServer/Repository/obj/Debug/netcoreapp2.2/Repository.csprojAssemblyReference.cache
+/Users/alexduncan/AccountOwnerServer/Repository/obj/Debug/netcoreapp2.2/Repository.csproj.CoreCompileInputs.cache
+/Users/alexduncan/AccountOwnerServer/Repository/obj/Debug/netcoreapp2.2/Repository.AssemblyInfoInputs.cache
+/Users/alexduncan/AccountOwnerServer/Repository/obj/Debug/netcoreapp2.2/Repository.AssemblyInfo.cs
+/Users/alexduncan/AccountOwnerServer/Repository/obj/Debug/netcoreapp2.2/Repository.csproj.CopyComplete
+/Users/alexduncan/AccountOwnerServer/Repository/obj/Debug/netcoreapp2.2/Repository.dll
+/Users/alexduncan/AccountOwnerServer/Repository/obj/Debug/netcoreapp2.2/Repository.pdb

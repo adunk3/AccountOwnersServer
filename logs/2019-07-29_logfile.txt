@@ -1,0 +1,7 @@
+2019-07-29 12:22:20.5160 INFO Returned all owners from database.
+2019-07-29 12:25:54.9572 INFO Returned owner with id: ac5d8307-41bf-4137-90b0-df6cd458f560
+2019-07-29 13:19:57.8477 INFO Returned all owners from database.
+2019-07-29 13:21:09.9291 INFO Returned owner with id: ac5d8307-41bf-4137-90b0-df6cd458f560
+2019-07-29 13:43:16.2486 INFO Returned all owners from database.
+2019-07-29 13:43:57.1859 INFO Returned all owners from database.
+2019-07-29 13:44:19.7564 ERROR Cannot delete owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906. It has related accounts. Please delete accounts first.
